@@ -9,18 +9,19 @@
   },
   {
     "id": 2,
-    "title": "assignment ",
-    "description": "This is a UPDATE todo",
+    "title": "assignment",
+    "description": "This is a Updated todo",
     "completed": true,
-    "createdAt": "2024-07-30T14:40:07.835Z",
-    "updatedAt": "2024-07-30T14:45:31.927Z"
+    "createdAt": "2024-07-30T16:11:01.246Z",
+    "updatedAt": "2024-07-30T16:14:32.049Z"
   },
   {
     "id": 3,
     "title": "assignment ",
     "description": "This is a third  assignment",
     "completed": false,
-    "createdAt": "2024-07-30T14:40:20.764Z",
-    "updatedAt": "2024-07-30T14:40:20.764Z"
+    "createdAt": "2024-07-30T15:16:39.738Z",
+    "updatedAt": "2024-07-30T15:16:39.738Z"
   }
+  
 ]
